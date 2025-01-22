@@ -15,7 +15,6 @@ Author: Emperor Augustus
         William Fairley
 
 Release Date: October 22, 2021 [eBook #66595]
-[Most recently updated: July 16, 2022]
 
 Language: English
 
@@ -2634,7 +2633,7 @@ _princeps_.[64]
 c. 14.
 
 My sons, the Cæsars Gaius and Lucius, whom fortune snatched from me in
-their youth,[65] the senate and Roman people, in order to do me honor,
+their youth,[65] the senate and Roman people, in order to dome honor,
 designated as consuls in the fifteenth year of each, with the intention
 that they should enter upon that magistracy after five years.[66] And
 the senate decreed that from the day in which they were introduced into
